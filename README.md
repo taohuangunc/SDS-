@@ -1,2 +1,2 @@
 # SDS-
-Statistics foundation for data science
+Statistics Foundation for Data Science
